@@ -1,0 +1,35 @@
+{
+  "name": "react-amplify-project-three",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@aws-amplify/ui-components": "^1.7.1",
+    "@aws-amplify/ui-react": "^1.2.8",
+    "aws-amplify": "^4.2.2",
+    "aws-amplify-react": "^2.1.5",
+    "date-fns": "^1.30.1",
+    "element-react": "^1.4.25",
+    "element-theme-default": "^1.4.13",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hot-loader": "^4.13.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-stripe-checkout": "^2.6.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
